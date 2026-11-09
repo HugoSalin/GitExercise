@@ -1,4 +1,8 @@
-Line 1
-Lisää tekstiä
-
-New Changes - Vielä lisää tekstiä
+tää
+on
+nyt
+uusi
+tenlines
+.txt
+tuleekohan
+merge conflict
