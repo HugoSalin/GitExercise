@@ -2,3 +2,4 @@ Line 1
 Lisää tekstiä
 
 New Changes - Vielä lisää tekstiä
+GitMerge Issue
