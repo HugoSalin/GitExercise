@@ -3,3 +3,12 @@ Lisää tekstiä
 
 New Changes - Vielä lisää tekstiä
 GitMerge Issue
+
+tää
+on
+nyt
+uusi
+tenlines
+.txt
+tuleekohan
+merge conflict
